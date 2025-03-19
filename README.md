@@ -6,7 +6,6 @@ Innovative IT Student committed to learning, developing skills in Problem Solvin
 📍 **Location**: Chennai, Tamil Nadu, India    
 📧 **Email**: [harishbalakrishnanpersonal@gmail.com](mailto:harishbalakrishnanpersonal@gmail.com)  
 🌐 **LinkedIn**: [Harish Balakrishnan](https://www.linkedin.com/in/harish-balakrishnan-205a72210)  
-💻 **GitHub**: [@HARISH-B-2001](https://github.com/HARISH-B-2001)
 
 ---
 
@@ -19,4 +18,3 @@ I am an enthusiastic IT student with a passion for technology and innovation. My
 ## 🤝 Contributions
 
 I'm always open to collaboration and contributions! If you'd like to work together or have any questions, feel free to reach out via email or LinkedIn.
-
