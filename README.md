@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://linkedin.com/in/harish-balakrishnan-205a72210/" target="_blank">
@@ -108,4 +108,4 @@ I am an enthusiastic IT student with a passion for technology and innovation. My
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/pacman-contribution-graph.svg">
 </picture>
 
-### -->
+###
