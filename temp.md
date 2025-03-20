@@ -5,14 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HARISH-B-2001.HARISH-B-2001&"  />
 </div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=HARISH-B-2001.HARISH-B-2001&"  />
 
 ###
 
@@ -20,15 +14,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 💫 About Me:
+I am an enthusiastic IT student with a passion for technology and innovation. My focus lies in leveraging my programming and problem-solving skills to develop impactful solutions. I thrive in collaborative environments and enjoy contributing to group projects while continuously enhancing my technical expertise.<br><br>
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-balakrishnan-205a72210/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishbalakrishnanpersonal@gmail.com) 
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+# 💻 Tech Stack:
 
 ###
 
@@ -68,22 +61,34 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HARISH-B-2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HARISH-B-2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-B-2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HARISH-B-2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HARISH-B-2001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HARISH-B-2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARISH-B-2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARISH-B-2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=HARISH-B-2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+<!-- #Snake -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake.svg" />
+</picture>
+
+<!-- #Pacman -->
+
+<!-- ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/pacman-contribution-graph-dark.svg">
@@ -91,4 +96,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
