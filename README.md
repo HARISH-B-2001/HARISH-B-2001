@@ -20,7 +20,7 @@ I am an enthusiastic IT student with a passion for technology and innovation. My
 I'm always open to collaboration and contributions! If you'd like to work together or have any questions, feel free to reach out via email or LinkedIn.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HARISH-B-2001/HARISH-B-2001/output/github-snake.svg" />
 </picture>
