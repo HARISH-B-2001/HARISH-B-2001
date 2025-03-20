@@ -5,6 +5,19 @@
 ###
 
 <div align="center">
+  <a href="https://linkedin.com/in/harish-balakrishnan-205a72210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="harishbalakrishnanpersonal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HARISH-B-2001.HARISH-B-2001&"  />
 </div>
 
@@ -18,10 +31,9 @@
 I am an enthusiastic IT student with a passion for technology and innovation. My focus lies in leveraging my programming and problem-solving skills to develop impactful solutions. I thrive in collaborative environments and enjoy contributing to group projects while continuously enhancing my technical expertise.<br><br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-balakrishnan-205a72210/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishbalakrishnanpersonal@gmail.com) 
+###
 
-# 💻 Tech Stack:
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
