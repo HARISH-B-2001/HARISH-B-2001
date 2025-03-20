@@ -74,11 +74,9 @@ I am an enthusiastic IT student with a passion for technology and innovation. My
 ###
 
 # 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=HARISH-B-2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HARISH-B-2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH-B-2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HARISH-B-2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
